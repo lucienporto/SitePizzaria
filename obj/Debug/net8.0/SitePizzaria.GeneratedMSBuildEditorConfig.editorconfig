@@ -14,12 +14,28 @@ build_property.EnableComHosting =
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\lucie\OneDrive\Área de Trabalho\Estudos\SitePizzaria
 build_property._RazorSourceGeneratorDebug = 
 
 [C:/Users/lucie/OneDrive/Área de Trabalho/Estudos/SitePizzaria/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lucie/OneDrive/Área de Trabalho/Estudos/SitePizzaria/Views/Pizza/Cadastrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFcQ2FkYXN0cmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lucie/OneDrive/Área de Trabalho/Estudos/SitePizzaria/Views/Pizza/Detalhes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFcRGV0YWxoZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lucie/OneDrive/Área de Trabalho/Estudos/SitePizzaria/Views/Pizza/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFcRWRpdGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lucie/OneDrive/Área de Trabalho/Estudos/SitePizzaria/Views/Pizza/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGl6emFcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/lucie/OneDrive/Área de Trabalho/Estudos/SitePizzaria/Views/Shared/_ValidationScriptsPartial.cshtml]
